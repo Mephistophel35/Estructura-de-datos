@@ -1,0 +1,7 @@
+La cola circular es CASIII como la pila con elementos enlazados.
+
+Lo que cambia seguramente lo explique el profesor, pero si no pues, ahora en vez de agregar y eliminar
+el primer elemento, ahora agregan al final y eliminan el primero, y claro, lo más importante es que
+el último elemento está enlazado con el primero a través de un hermoso y maquiabélico puntero!.
+
+~Mephisto
