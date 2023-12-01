@@ -1,0 +1,7 @@
+No mucho que decir aquí la verdad.
+
+Solo es la implementación de una lista que tiene un puntero al siguiente elemento de la lista.
+Y podemos acceder al primero y al último por los atributos que declaremos, es decir,
+Punteros tipo (nombre de la estructura) que apuntan al último y al primer elemento.
+
+~Mephisto
