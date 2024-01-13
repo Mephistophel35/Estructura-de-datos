@@ -1,12 +1,3 @@
-/*
-Nombre: Tabla Hash Direccionamiento Cerrado
-Autores: - Jehu Jonathan Ramírez Ramírez.
-         - Gael Balderrama Dominguez.
-         - Christian Alexis Flores Alvarez.
-Agradecimientos: - Irene Rodríguez Castillo. Impartidora del curso de Estructura de Datos en la Universidad de Sonora.
-Fecha: 31/05/2023
-Descripción: Programa que organiza y manupula datos en Tablas Hash con resolución de colisiones en Direccionamiento Cerrado.
-*/
 #include <iostream>
 #include "TablaHashDC.h"
 #include "FuncionesDeGestion.h"
